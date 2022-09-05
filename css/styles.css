@@ -1,0 +1,34 @@
+body {
+  background-color: #dfcfcf;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #A77979;
+  border-width: 6px;
+  width: 5%;
+  background-color: transparent;
+}
+
+h1 {
+  color: #472D2D;
+
+}
+
+h2, h3 {
+  color: #533434;
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: georgian;
+}
+
+img {
+  width: 95%;
+}
+
+a {
+  text-decoration: none;
+}
