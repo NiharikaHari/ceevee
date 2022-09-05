@@ -1,6 +1,5 @@
 body {
-  /* background-color: #dfcfcf; */
-  background-color: #472D2D;
+  background-color: #A77979;
   animation-name: bgcolor;
   animation-duration: 10s;
   animation-iteration-count: infinite;
@@ -36,6 +35,11 @@ h2, h3 {
 
 ul {
   list-style-type: georgian;
+  padding-left: 3%;
+}
+
+ol {
+  padding-left: 3%;
 }
 
 img {
