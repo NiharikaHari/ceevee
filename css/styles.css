@@ -1,5 +1,18 @@
 body {
-  background-color: #dfcfcf;
+  /* background-color: #dfcfcf; */
+  background-color: #472D2D;
+  animation-name: bgcolor;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  padding-left: 1%;
+  padding-bottom: 20%;
+}
+
+@keyframes bgcolor {
+  0% {background-color: #A77979;}
+  50% {background-color: #d6c0c0;}
+  100% {background-color: #A77979;}
+
 }
 
 hr {
