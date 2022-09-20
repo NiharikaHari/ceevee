@@ -68,7 +68,9 @@ p {
 .btn {
   /* position: relative;
   top: 30px; */
-  margin: 0 630px 30px;
+  /* margin: 0 630px 30px; */
+  width: 120px;
+  margin: auto;
   background: #49d1d6;
   background-image: -webkit-linear-gradient(top, #49d1d6, #11999E);
   background-image: -moz-linear-gradient(top, #49d1d6, #11999E);
@@ -161,7 +163,7 @@ p {
 
 .minecraft-1, .minecraft-2, .coding-img {
   height: auto;
-  width: 20%;
+  width: 150px;
   margin: 10px 50px 10px 0;
   float:left;
 }
